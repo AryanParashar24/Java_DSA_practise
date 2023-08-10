@@ -12,11 +12,13 @@ import java.util.Arrays;
     }
 
     static void demo(int...v){
+
         System.out.println(Arrays.toString(v));
     }
                         // Now here if the funtion is left empty then it now give an error and it is called as the
                        //AMBIGUITY as we didn't made any hints to which function we actually refering to and thus it is giving an error
     static void demo(String...v){
+
         System.out.println(Arrays .toString(v));
     }
 

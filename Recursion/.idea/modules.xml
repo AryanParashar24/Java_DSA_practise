@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DiceAndLetterCombination/DiceAndLetterCombination.iml" filepath="$PROJECT_DIR$/DiceAndLetterCombination/DiceAndLetterCombination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Recursion.iml" filepath="$PROJECT_DIR$/.idea/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion - 01/Recursion - 01.iml" filepath="$PROJECT_DIR$/Recursion - 01/Recursion - 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursionArray/RecursionArray.iml" filepath="$PROJECT_DIR$/RecursionArray/RecursionArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursionEasyOnes/RecursionEasyOnes.iml" filepath="$PROJECT_DIR$/RecursionEasyOnes/RecursionEasyOnes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursionPattern/RecursionPattern.iml" filepath="$PROJECT_DIR$/RecursionPattern/RecursionPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subset_Subsequence_String/Subset_Subsequence_String.iml" filepath="$PROJECT_DIR$/Subset_Subsequence_String/Subset_Subsequence_String.iml" />
+    </modules>
+  </component>
+</project>

@@ -9,7 +9,7 @@ public class MaxWealth {
         int maxWealth = MaxWealth.maximumWealth(arr);
         System.out.println("Maximum Wealth: " + maxWealth);
     }
-    public int maximumWealth(int[][] accounts){
+    static int maximumWealth(int[][] accounts){
         //person = rol
         //account = col
         int maxWealth = Integer.MIN_VALUE;

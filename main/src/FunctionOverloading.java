@@ -1,5 +1,5 @@
 //FunctionOverloading:--
-            // When it contains two functions with the same name but have different arguments then it i
+            // When it contains multiple functions with the same name but have different arguments then it i
 public class FunctionOverloading {
     public static void main(String[] args) {     //It happens when the program is compiled so when the program is compiled at that moment the function
                  fun(45);                                                     //overloading is performed..
@@ -8,10 +8,12 @@ public class FunctionOverloading {
                System.out.println(ans);
     }
     static int sum1(int a,int b){
+
         return a + b;
     }
 
     static int sum(int a,int b,int c){
+
         return a + b +c;
     }
 

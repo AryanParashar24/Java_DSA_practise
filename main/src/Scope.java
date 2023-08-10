@@ -28,7 +28,7 @@ public class Scope {
 
         int c  = 90;       // Because the value initialise inside the block can again be initialised outside the block as well
         System.out.println(name);
-        System.out.println(a);
+        System.out.println(a);  // SO it isn't like we can't use any value thath has been changed in any box it is like depend on the initialisation like if the initialisation of a or b is done in the box and like asked for printing up the value of a or b outside the box will give wrror but if anything initialised outside and then changed within the box and then asked for the printing of the value outside the box will print the value of a changed inside the box
         System.out.println(c);
 
 
