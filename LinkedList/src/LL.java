@@ -18,7 +18,7 @@ public class LL {
             tail = head;
         }
 
-        size += 1;
+        size ++;
     }
 
     public void insertLast(int val){
@@ -41,6 +41,36 @@ public class LL {
         tail = secondlast;
         tail.next = null;
         return val;
+    }
+
+    public int delete(int index){
+        if(index == 0){
+            return deleteFirst();
+        }
+        if (index == size - 1){
+            return deleteLast();
+        }
+
+        //Here in this the value will be deleted of the index we have filled in the code by running the code till the number previous to the index we
+        // have requested for & then filling the next number to the filled number as the number next to the target index
+        Node prev = get(index - 1);
+        int val = prev.next.value;
+
+        prev.next = prev.next.next;
+
+        return val;
+    }
+
+    public Node find(int value){
+        Node node = head;
+
+        while(node != null){
+            if (node.value == value){
+                return node;
+            }
+            node = node.next;
+        }
+        return node;
     }
 
     public Node get(int index){
