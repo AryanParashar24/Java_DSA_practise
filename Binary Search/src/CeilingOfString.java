@@ -1,12 +1,13 @@
 public class CeilingOfString {
 
+
     //                                                           LEETCODE LINK
 
     //                               https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 
 
 
-    /*So here in the ceiling of the string even we will be flooring in the same order and its beeen given in the question that it wraps around in the array
+    /*So here in the ceiling of the string even we will be flooring in the same order and its been given in the question that it wraps around in the array
     so that means that  if the answer is not found in the array then it will have to provide the start index of the array that is it kind of wraps arround so
     for example an array as {a, d, e, n} and if it asks for the target as 'p' then the answer of it will be 'a'
 

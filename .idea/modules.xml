@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Backtracking/Backtracking.iml" filepath="$PROJECT_DIR$/Recursion/Backtracking/Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearchIn2DArray/BinarySearchIn2DArray.iml" filepath="$PROJECT_DIR$/BinarySearchIn2DArray/BinarySearchIn2DArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary_op/Binary_op.iml" filepath="$PROJECT_DIR$/Binary_op/Binary_op.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bitwise_Math/Bitwise_Math.iml" filepath="$PROJECT_DIR$/Bitwise_Math/Bitwise_Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/BubbleSortAlgorithm/BubbleSortAlgorithm.iml" filepath="$PROJECT_DIR$/Sorting/BubbleSortAlgorithm/BubbleSortAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/CyclicSorting/CyclicSorting.iml" filepath="$PROJECT_DIR$/Sorting/CyclicSorting/CyclicSorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/DiceAndLetterCombination/DiceAndLetterCombination.iml" filepath="$PROJECT_DIR$/Recursion/DiceAndLetterCombination/DiceAndLetterCombination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/InsertionSortAlgorithm/InsertionSortAlgorithm.iml" filepath="$PROJECT_DIR$/Sorting/InsertionSortAlgorithm/InsertionSortAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear search algorithm/Linear search algorithm.iml" filepath="$PROJECT_DIR$/Linear search algorithm/Linear search algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/Sorting/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectOrientedProgramming/ObjectOrientedProgramming.iml" filepath="$PROJECT_DIR$/ObjectOrientedProgramming/ObjectOrientedProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/Sorting/QuickSort/QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion - 01/Recursion - 01.iml" filepath="$PROJECT_DIR$/Recursion/Recursion - 01/Recursion - 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/RecursionArray/RecursionArray.iml" filepath="$PROJECT_DIR$/Recursion/RecursionArray/RecursionArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/RecursionEasyOnes/RecursionEasyOnes.iml" filepath="$PROJECT_DIR$/Recursion/RecursionEasyOnes/RecursionEasyOnes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/RecursionPattern/RecursionPattern.iml" filepath="$PROJECT_DIR$/Recursion/RecursionPattern/RecursionPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Selection Sort Algorithm/Selection Sort Algorithm.iml" filepath="$PROJECT_DIR$/Sorting/Selection Sort Algorithm/Selection Sort Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks_And_Ques/Stacks_And_Ques.iml" filepath="$PROJECT_DIR$/Stacks_And_Ques/Stacks_And_Ques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringsAndStringBuilder/StringsAndStringBuilder.iml" filepath="$PROJECT_DIR$/StringsAndStringBuilder/StringsAndStringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Subset_Subsequence_String/Subset_Subsequence_String.iml" filepath="$PROJECT_DIR$/Recursion/Subset_Subsequence_String/Subset_Subsequence_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condition and loops/Switch/Switch.iml" filepath="$PROJECT_DIR$/Condition and loops/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicTakToe/TicTakToe.iml" filepath="$PROJECT_DIR$/TicTakToe/TicTakToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Time And Space Complexity/Time And Space Complexity.iml" filepath="$PROJECT_DIR$/Time And Space Complexity/Time And Space Complexity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condition and loops/code/code.iml" filepath="$PROJECT_DIR$/Condition and loops/code/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first intellij program/first intellij program.iml" filepath="$PROJECT_DIR$/first intellij program/first intellij program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tTickTakToe/tTickTakToe.iml" filepath="$PROJECT_DIR$/tTickTakToe/tTickTakToe.iml" />
+    </modules>
+  </component>
+</project>

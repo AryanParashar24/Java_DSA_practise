@@ -19,19 +19,15 @@ public class OrderAgnosticBS {
             //so if it exceeds that number thhen it might not allow that number and might give an error so for that:--
 
             int mid = start + (end - start) /2;
-            for (int i = 0; i <arr.length; i++) {
-                
-            }
-
             if(arr[mid] ==target){
                 return mid;
             }
             if (isAsc){
-               if(target < arr[mid]){
-                end = mid - 1;
+                if(target < arr[mid]){
+                    end = mid - 1;
                 }else{
-                start = mid + 1;
-               }
+                    start = mid + 1;
+                }
             }else{
                 if(target < arr[mid]){
                     end = mid - 1;

@@ -4,7 +4,8 @@ public class Ceiling {
     the ans does not lie in that range so the answer is outside somewhere but nt in the range and thus loop will be violated by making the end as
     the start and start > end and into that way when it will begin iterating through every element in that range for the target and when it will
     not find that then even the end will not exist for it and thus the start will bethe answer as the target is not in the range thus it will
-    return the start of the range and thus in this way our question will get solved finally THUS GIVING US CONDITION as  START = END + 1 & START > END
+    return the start of the range and thus in this way our question will get solved finally
+    $$$ THUS GIVING US CONDITION as  START = END + 1 & START > END $$$
      */
     public static void main(String[] args) {
         int[] arr = {2, 3, 5, 9, 14, 16, 18};

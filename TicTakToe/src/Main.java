@@ -30,7 +30,7 @@ class Main {
                     // player = 'O';
                     // } else {
                     // player = 'X';
-                    // }
+                    // }                                        the similar way to write the same lines of code would be
                     player = (player == 'X') ? 'O' : 'X';
                 }
             } else {
