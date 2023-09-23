@@ -6,14 +6,15 @@ package introduction.First;
 
                          So lets say our code
                                                        Student student1 = new Student();
- Then the left side of this code takes place while the compile time and the right side of the code usually happens during the runtime and thus the memory by the
- new keyword is being allocated during the runnign time when the compilation is done and finished and that memory allocation is known as the DYNAMIC MEMORY ALLOCATION
+ Then the left side of this code takes place while the compile time and the right side of the code usually happens during the runtime and thus
+  the memory by the new keyword is being allocated during the running time when the compilation is done and finished and that memory allocation
+   is known as the DYNAMIC MEMORY ALLOCATION
 
                                                   ALL CLASS'S OBJECTS MUST BE ALLOCATED DYNAMICALLY IN JAVA (for reasons look below)
 
 
-Now another quetion we may ask is why dont we use the "new" keyword while writing for the primitive data data type as the primitve datat type aren't impleemnted as
-objects in python and they are represented as primitve data type only and thus they ar eonly stored in the stack memory . In JAVA thi srule is been set whci isn't the case
+Now another quetion we may ask is why dont we use the "new" keyword while writing for the primitive data type as the primitve data type aren't implemnted as
+objects in python and they are represented as primitve data type only and thus they are only stored in the stack memory . In JAVA thi srule is been set whci isn't the case
 for the PYTHON  as every datat in python is stored in the heap memory, JAVA use this to seperate the big data to increase the efficiency whihc increase its speed
  and therefore PYTHON is comparatively slower than JAVA
                     */
@@ -68,8 +69,8 @@ public class Constructor {
         // Now we want to bind these arguments as provided in the constructor with the objects to reduce these repetitive factor in the code So
 
 
-        /*     CONSTRUCTOR is a function which runs when your create an object and it allcoates some variable.
-            If nothing is provided in the constructor then JAVA will call its own constructro and keep it empty untill anything is been filled in it
+        /*     CONSTRUCTOR is a function which runs when you create an object and it allcoates some variable.
+            If nothing is provided in the constructor then JAVA will call its own constructor and keep it empty untill anything is been filled in it
          */
 
         Student random = new Student(Aryan);

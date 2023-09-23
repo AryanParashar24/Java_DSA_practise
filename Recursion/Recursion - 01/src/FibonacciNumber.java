@@ -6,7 +6,7 @@
        /*When do we know that we can use Recursion at a problem:--
           1)) So whenever we are able to break a problem into the simpler units or values then at that possition we can use recursion over there
           2)) Also at the base condition, we know the base or the starting values like in this case of fibonacci numbers we know that F(0)= 0 & F(1)= 1
-       * */
+       */
 public class FibonacciNumber {
 
     public static void main(String[] args) {
@@ -15,7 +15,7 @@ public class FibonacciNumber {
     }
 
 
-                                   //MUST MUST MUST USE DEBUGGER TO UNDESTAND IT BETTER AND GO OUT WITH THE NAVIGATIOSN AND EXPLANATION BEEN NOTED BELOW
+                                   //MUST MUST MUST USE DEBUGGER TO UNDERSTAND IT BETTER AND GO OUT WITH THE NAVIGATIOSN AND EXPLANATION BEEN NOTED BELOW
     static int fibo(int n){
 
         //base condition
@@ -23,7 +23,7 @@ public class FibonacciNumber {
             return n;
         }
 
-        return fibo(n-1) + fibo(n-2);//BUT HERE it isn't TAIL RECURSION -as in tail recursion it is the last function and thsu gotnothin <<<------
+        return fibo(n-1) + fibo(n-2);//BUT HERE it isn't TAIL RECURSION -as in tail recursion it is the last function and thus gotnothin <<<------
         //                                        else remianing to do bt here it has to add the last function it need then gives it as answer         |
         //                                                                                                                                             |
                                                     //TAIL RECURSION                                                                                   |
@@ -46,7 +46,7 @@ public class FibonacciNumber {
   f(1)      f(0)      f(1)                 to main() function.
 
 
-         Also another point to be noted is that when it is going with the  f(n-1) then only those function which are coming into the tree ro the branch will be stored in the
+         Also another point to be noted is that when it is going with the  f(n-1) then only those function which are coming into the tree the branch will be stored in the
          stack and will be removed when done with execution those with f(n-2) will be stored inthe stack memory when their chance will come after the completion of the f(n-1)
 
 
@@ -59,9 +59,9 @@ public class FibonacciNumber {
                      3)) Draw the recursion Tree
                      4)) ABOUT THE TREE--
                         a)) See the flow of function and how they are getting in stack
-                        b)) Identify and focus on left tree calss and right tree calls (THis just means that untill and unless the left side of tree isn't solved the right side isn't even get considered at first)
-                        c)) Drwa the tree and pointer again and again using pen and paper
-                        d)) Use a debugger to see teh flow
+                        b)) Identify and focus on left tree calls and right tree calls (THis just means that untill and unless the left side of tree isn't solved the right side isn't even get considered at first)
+                        c)) Draw the tree and pointer again and again using pen and paper
+                        d)) Use a debugger to see the flow
                      5)) See how the values & what type of values(data type) are returned at each step . See where the function call will come out. In the end you will come out of the main function
 
 
