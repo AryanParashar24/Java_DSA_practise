@@ -7,7 +7,7 @@ public class CustomArrayList {
 
     private int[] data;
     private static int DEFAULT_SIZE = 10;
-    private int size = 0;   //suize is also working as an index value in the function
+    private int size = 0;   //size is also working as an index value in the function
 
     public CustomArrayList(){
         this.data = new int[DEFAULT_SIZE];
@@ -24,7 +24,7 @@ public class CustomArrayList {
         return size == data.length;
     }
 
-    //will be accessed only when the arrya has already reachedd to the final array index i.e. the limit of the array
+    //will be accessed only when the array has already reachedd to the final array index i.e. the limit of the array
     private void resize(){
         int[] temp = new int[data.length * 2];
         
@@ -76,7 +76,7 @@ public class CustomArrayList {
         }
         System.out.println(list);
 
-        ArrayList<String> list2 = new ArrayList<>();
+        ArrayList<String > list2 = new ArrayList<>();
         list2.add("weujuyfdeyuiwg"); //here we can see that the requirement is integer bt we r passing a string these r known Generics
                                     //Generics helps in passing a PARAMETERISED TYPE
     }

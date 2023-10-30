@@ -7,10 +7,10 @@ public class CustomGenericsArrayList<T> {
 
     private Object[] data;
     private static int DEFAULT_SIZE = 10;
-    private int size = 0;   //suize is also working as an index value in the function
+    private int size = 0;   //size  is also working as an index value in the function
 
     public CustomGenericsArrayList(){
-        data = new Object[DEFAULT_SIZE];     //Here even after passign hte generic type t which isn't defined here in this data format won't be
+        data = new Object[DEFAULT_SIZE];     //Here even after passing the generic type t which isn't defined here in this data format won't be
                                                 // allowed as here we haven't yet defined wht is T and how does it functions and wht is it anyway
     }
 
@@ -37,7 +37,7 @@ public class CustomGenericsArrayList<T> {
     }
 
     public T remove(){
-        T removed  = (T)(data[--size]);//here we will have to cast it because in the smaller type/mroe restricted one we r trying to add a bigger one
+        T removed  = (T)(data[--size]);//here we will have to cast it because in the smaller type/more restricted one we r trying to add a bigger one
         return removed;
     }
 
