@@ -94,9 +94,9 @@ public class RBS {
                 end--;
             }
             //left side is sorted so the pivot should be in right side
-            else if(arr[start] ; arr[mid] || (arr[start] == arr[mid] && arr[mid] > arr[end]){
+            else if(arr[start] < arr[mid] || (arr[start] == arr[mid] && arr[mid] > arr[end])){
                 start = mid +1;
-            } else {
+            }else{
                 end = mid - 1;
             }
         }
