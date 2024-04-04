@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a81d9f27-f4f5-4810-8d73-6e768f70dd2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../BinaryTree/src/SegmentTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinaryTree/src/Tree2AVL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LargeNumbers-Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BigIntegerDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyStringBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RandomString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/introduction/src/introduction/ExceptionHandling/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/introduction/src/introduction/ExceptionHandling/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/introduction/src/introduction/ExceptionHandling/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/introduction/src/introduction/cloning/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/introduction/src/introduction/cloning/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/introduction/src/introduction/component/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjectOrientedProgramming/introduction/src/introduction/enumExample/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Binary Search/src/RBS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Binary Search/src/RBS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BinaryTree/out/production/BinaryTree/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryTree/out/production/BinaryTree/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BinaryTree/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryTree/src/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BinaryTree/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryTree/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

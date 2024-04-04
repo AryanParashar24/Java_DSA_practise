@@ -32,6 +32,16 @@ public class LL {
         size++;
     }
 
+    public int deleteFirst(){
+        int val = head.value;
+        head = head.next;
+        if(head == null){
+            tail = null;
+        }
+        size--;
+        return val;
+    }
+
     public int deleteLast() {
         if (size <= 1) {
             return deleteFirst();
@@ -101,16 +111,6 @@ public class LL {
         temp.next = node;
 
         size++;
-    }
-
-    public int deleteFirst(){
-        int val = head.value;
-        head = head.next;
-        if(head == null){
-            tail = null;
-        }
-        size--;
-        return val;
     }
 
 // here wht it does is that the temp will be assigned to each and every element in the list from the head and will be proceeded to the further next item
